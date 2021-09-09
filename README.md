@@ -12,12 +12,10 @@
 
 ### Connect with me:
 
-<img align="left" alt=" " width="22px" src="<img align="left" alt="JavaScript" width="26px" src="  " />
-<img  align="left" alt=" https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA " width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />[youtube]
-<img align="left" alt="  " width="22px" src="https://twitter.com/tarunveeranki" />
-<img align="left" alt=" " width="22px" src=" https://github.com/veerankitarun" />
-<img align="left" alt=" " width="22px" src=" " />
-
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 
