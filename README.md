@@ -4,7 +4,7 @@
 
 ## I'm a web developer, tech inthusist, circuit designer !!
 
-- 🔭 currenly i'm working on a project
+- 🔭 Currenly i'm working on a project
 - 🌱 Always wanted to do better then yesterday
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
