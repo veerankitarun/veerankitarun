@@ -8,17 +8,18 @@
 - 🌱 I’m currently learning backend
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play cricker, chess and Skating
+- ⚡ Fun fact: I love to play cricket, chess and Skating
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="  " />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://twitter.com/tarunveeranki" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" " width="22px" src="  " />][website]
+[<img align="left" alt=" " width="22px" src="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA" />][youtube]
+[<img align="left" alt="  " width="22px" src="https://twitter.com/tarunveeranki" />][twitter]
+[<img align="left" alt=" " width="22px" src=" https://github.com/veerankitarun" />][linkedin]
+[<img align="left" alt=" " width="22px" src=" " />][instagram]
 
 <br />
+
 
 ### Languages and Tools:
 
