@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <img align="left" alt=" " width="22px" src="<img align="left" alt="JavaScript" width="26px" src="  " />
-[<img align="left" alt=" Youtube " width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />] [youtube]
+<img  align="left" alt=" https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA " width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />[youtube]
 <img align="left" alt="  " width="22px" src="https://twitter.com/tarunveeranki" />
 <img align="left" alt=" " width="22px" src=" https://github.com/veerankitarun" />
 <img align="left" alt=" " width="22px" src=" " />
