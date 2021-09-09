@@ -50,11 +50,11 @@
 
 <!-- YOUTUBE:START -->
 
-- [7 Days to Learn React 🤯, 30 Days to Build a SaaS 💪, 40 Min Full Stack App 🦸‍♀️ // STACKr News Weekly](https://www.youtube.com/watch?v=5sWwIh_fX2o)
-- [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=SI-ZSg9z4ug)
-- [$1M in 1000 Days❓, IDE vs Text Editor 🆚, & How Many Languages to Learn 📚 // STACKr News Weekly](https://www.youtube.com/watch?v=9oTwFQnXbQ4)
-- [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=QqmhZSxIGTY&t=54s)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=mdFoUgF4Btk)
+- [ How to check whether the transistor is NPN or PNP using multimeter](https://www.youtube.com/watch?v=5sWwIh_fX2o)
+- [ How to download the latest version of arduino software 2020 ](https://www.youtube.com/watch?v=SI-ZSg9z4ug)
+- [ Motion detector with real time application](https://www.youtube.com/watch?v=9oTwFQnXbQ4)
+- [How to make darkness detector very easily..](https://www.youtube.com/watch?v=QqmhZSxIGTY&t=54s)
+- [How to make 9v to 5v converter with regulators](https://www.youtube.com/watch?v=mdFoUgF4Btk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA/featured)
@@ -65,14 +65,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+<!-- ➡️ [more blog posts...](https://codestackr.com) --> -->
 
 ---
 
@@ -90,11 +90,11 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <!-- <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
-</details>
+</details> -->
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
