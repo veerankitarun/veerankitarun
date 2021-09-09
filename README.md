@@ -4,8 +4,8 @@
 
 ## I'm a web developer, tech inthusist, circuit designer !!
 
-- 🔭 I just launched my first course
-- 🌱 I’m currently learning backend
+- 🔭 currenly i'm working on a project
+- 🌱 learning backend
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket, chess and Skating
@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <img align="left" alt=" " width="22px" src="  " />
-<img align="left" alt=" Youtube " width="22px" src="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA" />
+<img align="left" alt="  " width="22px" src="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA" />
 <img align="left" alt="  " width="22px" src="https://twitter.com/tarunveeranki" />
 <img align="left" alt=" " width="22px" src=" https://github.com/veerankitarun" />
 <img align="left" alt=" " width="22px" src=" " />
