@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt=" " width="22px" src="  " />]
-[<img align="left" alt=" Youtube " width="22px" src="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA" />][youtube]
-[<img align="left" alt="  " width="22px" src="https://twitter.com/tarunveeranki" />]
-[<img align="left" alt=" " width="22px" src=" https://github.com/veerankitarun" />]
-[<img align="left" alt=" " width="22px" src=" " />]
+<img align="left" alt=" " width="22px" src="  " />
+<img align="left" alt=" Youtube " width="22px" src="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA" />
+<img align="left" alt="  " width="22px" src="https://twitter.com/tarunveeranki" />
+<img align="left" alt=" " width="22px" src=" https://github.com/veerankitarun" />
+<img align="left" alt=" " width="22px" src=" " />]
 
 <br />
 
@@ -24,9 +24,9 @@
 ### Languages and Tools:
 <br/> 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
