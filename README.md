@@ -8,7 +8,7 @@
 - 🌱 Always wanted to do better then yesterday
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play cricket, chess and Skating
+- ⚡ Fun fact: I love to play basketball, chess and Skating
 
 ### Connect with me:
 
