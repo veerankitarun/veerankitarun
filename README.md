@@ -11,13 +11,13 @@
 - ⚡ Fun fact: I love to play basketball, chess and Skating
 
 ### Connect with me:
-<a href="https://https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA">
+<a href="https://www.youtube.com/channel/UCoT3nV-ZoNRVR5GkIJFV-hA">
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.instagram.com/_tarun_goud_">
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://https://www.linkedin.com/in/tarun-kumar-947978188">
+  <a href="https://www.linkedin.com/in/tarun-kumar-947978188">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 <a href="https://www.instagram.com/_tarun_goud_">
