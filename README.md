@@ -1,4 +1,4 @@
-### Hi there, I'm Tarunkumar - [Innovation begins] 👋
+### Hi there, I'm Tarunkumar - Founder of @innovation_begins👋
 
 
 
